@@ -1,0 +1,13 @@
+-The program inside file "0-strcat.c" writes a function that concatenates two strings.
+-The program inside file "1-strncat.c" writes a function that concatenates two strings.
+-The program inside file "2-strncpy.c" writes a function that copies a string.
+-The program inside file "3-strcmp.c" writes a function that compares two strings.
+-The program inside file "4-rev_array.c" writes a function that reverses the content of an array of integers.
+-The program inside file "5-string_toupper.c" writes a function that changes all lowercase letters of a string to uppercase.
+-The program inside file "6-cap_string.c" writes a function that capitalizes all words of a string.
+-The program inside file "7-leet.c" writes a function that encodes a string into 1337.
+-The program inside file "100-rot13.c" writes a function that encodes a string using rot13.
+-The program inside file "101-print_number.c" writes a function that prints an integer.
+-The program inside file "102-magic.c" prints a[2] = 98, followed by a new line.
+-The program inside file "103-infinite_add.c" writes a function that adds two numbers.
+-The program inside file "104-print_buffer.c" writes a function that prints a buffer.
